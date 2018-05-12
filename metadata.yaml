@@ -1,0 +1,39 @@
+_repo: Handbook-of-Alabama-Archaeology--Part-I-Point-Types_39974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39974-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Cambron, James W.
+    gutenberg_agent_id: '40345'
+    url: http://www.gutenberg.org/2009/agents/40345
+  - agent_name: Hulse, David C.
+    gutenberg_agent_id: '40346'
+    url: http://www.gutenberg.org/2009/agents/40346
+  editor:
+    agent_name: DeJarnette, David L. (David Lloyd)
+    aliases:
+    - Jarnette, David L. De (David Lloyd)
+    - DeJarnette, David Lloyd
+    birthdate: 1907
+    deathdate: 1991
+    gutenberg_agent_id: '40347'
+    url: http://www.gutenberg.org/2009/agents/40347
+description: ''
+gutenberg_issued: '2012-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F296'
+- !lcsh 'Projectile points -- Alabama'
+- !lcsh 'Alabama -- Antiquities -- Handbooks, manuals, etc.'
+- !lcsh 'Indians of North America -- Alabama -- Antiquities -- Handbooks, manuals,
+  etc.'
+title: 'Handbook of Alabama Archaeology: Part I, Point Types'
+url: http://www.gutenberg.org/ebooks/39974
